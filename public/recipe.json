@@ -1,0 +1,51 @@
+[
+  
+  {
+    "recipe_id": 2,
+    "recipe_image": "https://i.ibb.co/RPWQ25s/2-Hersheys-Perfectly-Chocolate-Cake-11-18.jpg",
+    "recipe_name": "Chocolate Cake",
+    "description": "Indulge your sweet tooth with this decadent chocolate cake, moist and rich with a velvety chocolate ganache frosting.",
+    "ingredients": ["2 cups all-purpose flour", "1 cup unsweetened cocoa powder", "1 1/2 cups granulated sugar", "1 1/2 tsp baking powder", "1 tsp baking soda", "1 tsp salt", "1 cup milk", "1/2 cup vegetable oil", "2 tsp vanilla extract"],
+    "preparing_time": 60,
+    "calories": 450,
+    "difficulty": "Difficult",
+    "recipe_type": "Dessert",
+    "rating": 4.9
+  },
+  {
+    "recipe_id": 3,
+    "recipe_image": "https://i.ibb.co/r5sxTdC/merlin-141110271-8685e17e-0470-4bab-8fc8-ff7262cc98ec-super-Jumbo.jpg",
+    "recipe_name": "Avocado Toast",
+    "description": "Elevate your breakfast game with this simple yet delicious avocado toast, topped with creamy avocado, a sprinkle of salt and pepper, and a drizzle of olive oil.",
+    "ingredients": ["2 slices whole grain bread", "1 ripe avocado", "Salt and pepper to taste", "1 tbsp olive oil","1/2 cup vegetable oil", "Optional toppings: sliced tomatoes, poached eggs, feta cheese"],
+    "preparing_time": 10,
+    "calories": 320,
+    "difficulty": "Easy",
+    "recipe_type": "Breakfast",
+    "rating": 4.7
+  },
+  {
+    "recipe_id": 1,
+    "recipe_image": "https://i.ibb.co/bswCFVG/download-1.jpg",
+    "recipe_name": "Beef Stew",
+    "description": "Warm up on a chilly day with this hearty and flavorful beef stew, packed with tender beef, vegetables, and savory broth.",
+    "ingredients": ["500 g beef stew meat", "3 potatoes", "2 carrots", "1 onion", "2 cloves garlic", "1 cup beef broth", "2 tbsp tomato paste", "1 tsp thyme", "Salt and pepper to taste"],
+    "preparing_time": 45,
+    "calories": 380,
+    "difficulty": "Moderate",
+    "recipe_type": "Main Course",
+    "rating": 4.4
+  },
+  {
+    "recipe_id": 4,
+    "recipe_image": "https://i.ibb.co/Z1ynghB/download.jpg",
+    "recipe_name": "Miso Soup",
+    "description": "Warm up with this comforting Japanese classic, miso soup. Made with dashi broth and fermented miso paste, it's both nutritious and flavorful.",
+    "ingredients": ["4 cups water", "2 tbsp miso paste", "1 sheet kombu (dried kelp)", "1 cup firm tofu, cubed", "2 green onions, sliced", "1/2 cup sliced mushrooms", "Optional: seaweed, thinly sliced carrots, cooked noodles"],
+    "preparing_time": 20,
+    "calories": 90,
+    "difficulty": "Easy",
+    "recipe_type": "Soup",
+    "rating": 4.6
+  }
+]
